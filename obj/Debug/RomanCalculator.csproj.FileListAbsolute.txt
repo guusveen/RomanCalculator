@@ -1,0 +1,9 @@
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.Form1.resources
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.Properties.Resources.resources
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.csproj.GenerateResource.Cache
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.exe.config
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.exe
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\bin\Debug\RomanCalculator.pdb
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.exe
+C:\Users\guus_\documents\visual studio 2017\Projects\RomanCalculator\RomanCalculator\obj\Debug\RomanCalculator.pdb
